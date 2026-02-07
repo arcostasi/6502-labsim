@@ -1,0 +1,5 @@
+{
+  "name": "6502 Lab Simulator",
+  "description": "A fully functional visual simulator of a 6502 computer inspired by the Ben Eater kit. Features step-by-step execution, bus visualization, LCD output, and AI-assisted assembly coding.",
+  "requestFramePermissions": []
+}
