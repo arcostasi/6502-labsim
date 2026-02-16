@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit --pretty && echo ✅ No type errors found!"
   },
   "dependencies": {
     "@google/genai": "^1.42.0",
