@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # 6502 Laboratory Simulator
 
 A fully interactive visual simulator of a **MOS 6502** computer, inspired by the [Ben Eater](https://eater.net/6502) breadboard kit.
