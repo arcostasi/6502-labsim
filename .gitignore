@@ -22,6 +22,9 @@ tests/**/*.bin
 
 # Local dev scripts
 make_commits.ps1
+remap_dates.ps1
+remap_dates2.ps1
+rewrite_dates.py
 
 # Editor directories and files
 .vscode/*
